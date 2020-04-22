@@ -1,0 +1,63 @@
+/* https://colorhunt.co/palette/134291 */
+
+div {
+  padding: 10px;
+}
+
+text {
+  fill: #333D51;
+  font: 14px sans-serif;
+
+}
+body {
+	color: #474f85;
+	background-color: #f3f9fb;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+p {
+  fill: #474f85 ;
+  font: 14px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f3f9fb;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #474f85;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #f3ecd3;
+    color: #474f85;
+}
+
+li a:active {
+    background-color: #f3ecd3;
+    color: #474f85;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px black solid;
+    font: 12px sans-serif;
+}
+
+td {
+    border: 1px black solid;
+    padding: 5px;
+}
